@@ -40,5 +40,19 @@
     "description": "A 60-minute workshop walking through how we built a production-grade, open source MCP server template at Red Hat, covering FastMCP + FastAPI integration, multiple transport protocols, OAuth, structured logging, and OpenShift deployment.",
     "tags": ["MCP", "AI", "Open Source", "Kubernetes", "Workshop"],
     "date": "2026-05-26"
+  },
+  {
+    "slug": "token-economics",
+    "title": "AI Agents Gone Wild: Token Economics Survival Guide",
+    "description": "Learn what AI agents really are, why your wallet cries when using them, and how to save 40-80% on your LLM bills. A practical guide to token economics and cost optimization.",
+    "tags": ["AI", "Token Economics", "Cost Optimization"],
+    "date": "2026-06-18"
+  },
+  {
+    "slug": "co-branded-meetup-proposal",
+    "title": "Agentic Testing Meetup Proposal",
+    "description": "A co-branded community meetup proposal: Pune AI Collective x The Test Trove. Deep-dive into AI-powered testing agents, browser automation, and intelligent test frameworks.",
+    "tags": ["Testing", "AI Agents", "Community"],
+    "date": "2026-06-18"
   }
 ]
